@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65fd532dc659aa027d50a363"
+  },
+  "name": "string",
+  "email": "string",
+  "ticket": 1
+},
+{
+  "_id": {
+    "$oid": "65fd5330c659aa027d50a364"
+  },
+  "name": "string",
+  "email": "string",
+  "ticket": 1
+},
+{
+  "_id": {
+    "$oid": "65fd53a2d468dc868c48d3c0"
+  },
+  "name": "string",
+  "email": "string",
+  "ticket": 0
+},
+{
+  "_id": {
+    "$oid": "65fd53a7d468dc868c48d3c1"
+  },
+  "name": "string",
+  "email": "string",
+  "ticket": 0
+},
+{
+  "_id": {
+    "$oid": "65fd53aad468dc868c48d3c2"
+  },
+  "name": "string",
+  "email": "string",
+  "ticket": 0
+}]
